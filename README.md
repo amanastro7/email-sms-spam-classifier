@@ -1,5 +1,4 @@
-APP:
-Deployed On Streamlit
+Deployed On Streamlit:
 https://amanastro7-email-sms-spam-classifier-sms-email-p7jnwf.streamlit.app/ 
 
 Also Deployed On HuggingFace Space (but it loads painfully slow as it is running on CPU):
