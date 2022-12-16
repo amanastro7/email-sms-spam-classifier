@@ -1,4 +1,5 @@
 # EMAIL - SMS SPAM CLASSIFIER
+![Diaplay Image](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/spam.jpg)
 ## WEB APP 🖥️
 
 You Can Check The Deployed App On [Streamlit](https://amanastro7-email-sms-spam-classifier-sms-email-p7jnwf.streamlit.app/).
