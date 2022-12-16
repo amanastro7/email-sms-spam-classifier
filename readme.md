@@ -5,12 +5,16 @@
 
 ## WEB APP 🖥️
 You Can Check The Deployed App On [Streamlit](https://amanastro7-email-sms-spam-classifier-sms-email-p7jnwf.streamlit.app/).
+
 Here's a screenshot of the same:
+
 ![STREAMLIT SCREENSHOT](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/images/image.png)
 
 Also Deployed On [HuggingFace Space](https://huggingface.co/spaces/amanastro07/sms-email-spam-clsfr)
 (but it loads painfully slow as it is running on CPU).
+
 Here's a screenshot of the same:
+
 ![HUGGING FACE SPACE SCREENSHOT](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/images/image.png)
 
 
