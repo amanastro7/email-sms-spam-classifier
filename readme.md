@@ -1,5 +1,5 @@
 # EMAIL - SMS SPAM🚫 CLASSIFIER
-![Display Image](https://github.com/amanastro7/email-sms-spam-classifier/blob/main/spam.jpg)
+![spam-filter](https://user-images.githubusercontent.com/56089248/208253496-1a125abd-c146-4656-abdd-e48c9caeef60.jpg)
 
 
 
