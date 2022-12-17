@@ -1,5 +1,5 @@
 # EMAIL - SMS SPAM🚫 CLASSIFIER
-![spam-filter](https://user-images.githubusercontent.com/56089248/208253496-1a125abd-c146-4656-abdd-e48c9caeef60.jpg)
+![spam-fil](https://user-images.githubusercontent.com/56089248/208253609-9a32d736-6e00-4fc8-ad7e-156cae3f22f6.jpg)
 
 
 
