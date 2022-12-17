@@ -40,7 +40,7 @@ The **Multinomial Naive Bayes** algorithm works by calculating the probability t
 ## MODEL SCORES 📊📉
 The Dataset was trained on various classification algorithms like **LogisticRegression, SVC, GaussianNB, MultinomialNB, BernoulliNB, DecisionTreeClassifier, KNeighborsClassifier, RandomForestClassifier, AdaBoostClassifier, BaggingClassifier, ExtraTreesClassifier, GradientBoostingClassifier and XGBClassifier**.
 
-The MULTINOMIAL BNAIVE BAYES gave us a better metrics >>> **ACCURACY** of the model was 97% and **PRECISION** was 1. Since we had an unbalanced dataset, so **Multinomial NB** was choosen as it had a precision of 1.
+The MULTINOMIAL NAIVE BAYES was with a better metrics >>> **ACCURACY** of the model was 97% and **PRECISION** was 1. Since we had an unbalanced dataset, so **Multinomial NB** was choosen as it had a precision of 1.
 
 
 
