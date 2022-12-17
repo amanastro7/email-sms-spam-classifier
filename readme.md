@@ -30,6 +30,10 @@ The dataset used for this project was found on [Kaggle](https://www.kaggle.com/d
 
 
 ## MACHINE LEARNING MODEL USED ⚙️🛠️
+**Naive Bayes** is a machine learning algorithm that is used for classification tasks. It is based on the **Bayes Theorem** which states that the probability of an event occurring is equal to the prior probability of the event multiplied by the likelihood of the event given some evidence. In the case of **Multinomial Naive Bayes**, the evidence is the frequency of words in a document, and the event is the class to which the document belongs.
+
+The **Multinomial Naive Bayes** algorithm works by calculating the probability that a document belongs to a particular class, given the frequency of words in the document. It does this by assuming that each word in the document is independent of the others, and that the probability of each word occurring is determined by its frequency in the overall training set.
+![BayesTh](https://user-images.githubusercontent.com/56089248/208252941-57e68b83-a1b7-4232-8e41-d5999456ccb7.png)
 
 
 
