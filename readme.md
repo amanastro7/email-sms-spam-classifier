@@ -47,3 +47,4 @@ The MULTINOMIAL NAIVE BAYES was with a better metrics >>> **ACCURACY** of the mo
 ## VIDEO DEMO OF THE WEB APP 📱
 Press ▶️ button to watch the video.
 
+https://user-images.githubusercontent.com/56089248/208279986-ca527d27-35bb-41ef-a1bb-1e362e4304f9.mp4
